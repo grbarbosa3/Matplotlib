@@ -8,3 +8,4 @@
 ### Scatter
 ### Waffle
 ### World Cloud
+### Seaborn
